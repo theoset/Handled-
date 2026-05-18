@@ -1,0 +1,26 @@
+<div class="worker-card">
+<img src="images/person1.jpg">
+<h3>John M</h3>
+<p>Plumber</p>
+<p>Gaborone</p>
+<p>★★★★★</p>
+<button>Contact</button>
+</div>
+
+<div class="worker-card">
+<img src="images/person1.jpg">
+<h3>Kealeboga D</h3>
+<p>Electrician</p>
+<p>Gaborone</p>
+<p>★★★★★</p>
+<button>Contact</button>
+</div>
+
+<div class="worker-card">
+<img src="images/person1.jpg">
+<h3>Tevin G</h3>
+<p>errands</p>
+<p>Gaborone</p>
+<p>★★★★★</p>
+<button>Contact</button>
+</div>
