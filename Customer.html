@@ -1,0 +1,23 @@
+<h2>Request a Task</h2>
+
+<form id="taskForm">
+<input type="text" id="customerName" placeholder="Your Name" required>
+
+<select id="service">
+<option>Cleaning</option>
+<option>Plumbing</option>
+<option>Electrical</option>
+<option>Gardening</option>
+<option>Delivery</option>
+</select>
+
+<input type="text" id="location" placeholder="Location" required>
+<input type="number" id="budget" placeholder="Budget" required>
+
+<textarea id="description" placeholder="Describe task"></textarea>
+
+<button type="submit">Post Task</button>
+</form>
+
+<h2>Open Tasks</h2>
+<div id="taskList"></div>
